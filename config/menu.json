@@ -1,0 +1,28 @@
+{
+	"menu": [
+		{
+			"modulo" : "Sistemas",
+			"script" : "javascript:openHTML('sistemas.html','content-screen')",
+			"class"  : "",
+			"icone"  : "fa fa-home",
+			"access" : [10,9],
+			"itens"  : []
+		},
+		{
+			"modulo" : "Clientes",
+			"script" : "javascript:openHTML('clientes.html','content-screen')",
+			"access" : [10,4,3],
+			"class"  : "",
+			"icone"  : "fa fa-industry",
+			"itens"  : []
+		},
+		{
+			"modulo" : "Usuários",
+			"script" : "javascript:openHTML('usuarios.html','content-screen')",
+			"access" : [10,4],
+			"class"  : "",
+			"icone"  : "fa fa-industry",
+			"itens"  : []
+		}							
+	]
+}
